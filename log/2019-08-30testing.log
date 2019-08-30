@@ -1,0 +1,104 @@
+Fri, 30 Aug 2019 14:09:41-common.record_log-conftest.py-[line:9]-INFO-[日志信息]: ------------open browser------------
+Fri, 30 Aug 2019 14:11:18-common.record_log-loginPage.py-[line:28]-INFO-[日志信息]: 开始登录
+Fri, 30 Aug 2019 14:11:18-common.record_log-loginPage.py-[line:37]-INFO-[日志信息]: 输入用户名:admin
+Fri, 30 Aug 2019 14:14:22-common.record_log-conftest.py-[line:9]-INFO-[日志信息]: ------------open browser------------
+Fri, 30 Aug 2019 14:14:26-common.record_log-conftest.py-[line:9]-INFO-[日志信息]: ------------open browser------------
+Fri, 30 Aug 2019 14:14:29-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://tzagriculture.test.al8l.com/login.html
+Fri, 30 Aug 2019 14:15:20-common.record_log-conftest.py-[line:9]-INFO-[日志信息]: ------------open browser------------
+Fri, 30 Aug 2019 14:15:47-common.record_log-conftest.py-[line:9]-INFO-[日志信息]: ------------open browser------------
+Fri, 30 Aug 2019 14:15:50-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://tzagriculture.test.al8l.com/login.html
+Fri, 30 Aug 2019 14:16:24-common.record_log-conftest.py-[line:9]-INFO-[日志信息]: ------------open browser------------
+Fri, 30 Aug 2019 14:16:28-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://tzagriculture.test.al8l.com/login.html
+Fri, 30 Aug 2019 14:20:10-common.record_log-conftest.py-[line:9]-INFO-[日志信息]: ------------open browser------------
+Fri, 30 Aug 2019 14:20:12-common.record_log-loginPage.py-[line:28]-INFO-[日志信息]: 开始登录
+Fri, 30 Aug 2019 14:20:12-common.record_log-loginPage.py-[line:37]-INFO-[日志信息]: 输入用户名:admin
+Fri, 30 Aug 2019 14:20:47-common.record_log-conftest.py-[line:9]-INFO-[日志信息]: ------------open browser------------
+Fri, 30 Aug 2019 14:20:48-common.record_log-loginPage.py-[line:28]-INFO-[日志信息]: 开始登录
+Fri, 30 Aug 2019 14:20:48-common.record_log-loginPage.py-[line:37]-INFO-[日志信息]: 输入用户名:admin
+Fri, 30 Aug 2019 14:20:59-common.record_log-conftest.py-[line:9]-INFO-[日志信息]: ------------open browser------------
+Fri, 30 Aug 2019 14:21:02-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://tzagriculture.test.al8l.com/login.html
+Fri, 30 Aug 2019 14:21:02-common.record_log-loginPage.py-[line:28]-INFO-[日志信息]: 开始登录
+Fri, 30 Aug 2019 14:21:02-common.record_log-loginPage.py-[line:37]-INFO-[日志信息]: 输入用户名:admin
+Fri, 30 Aug 2019 14:21:02-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入密码:123456
+Fri, 30 Aug 2019 14:21:02-common.record_log-loginPage.py-[line:45]-INFO-[日志信息]: 点击登录按钮
+Fri, 30 Aug 2019 14:21:21-common.record_log-conftest.py-[line:9]-INFO-[日志信息]: ------------open browser------------
+Fri, 30 Aug 2019 14:21:27-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://tzagriculture.test.al8l.com/login.html
+Fri, 30 Aug 2019 14:21:27-common.record_log-loginPage.py-[line:28]-INFO-[日志信息]: 开始登录
+Fri, 30 Aug 2019 14:21:27-common.record_log-loginPage.py-[line:37]-INFO-[日志信息]: 输入用户名:admin
+Fri, 30 Aug 2019 14:21:27-common.record_log-loginPage.py-[line:41]-INFO-[日志信息]: 输入密码:123456
+Fri, 30 Aug 2019 14:21:27-common.record_log-loginPage.py-[line:45]-INFO-[日志信息]: 点击登录按钮
+Fri, 30 Aug 2019 14:21:50-common.record_log-conftest.py-[line:9]-INFO-[日志信息]: ------------open browser------------
+Fri, 30 Aug 2019 14:45:12-common.record_log-conftest.py-[line:9]-INFO-[日志信息]: ------------open browser------------
+Fri, 30 Aug 2019 15:11:07-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://tzagriculture.test.al8l.com/login.html
+Fri, 30 Aug 2019 15:18:32-common.record_log-conftest.py-[line:9]-INFO-[日志信息]: ------------open browser------------
+Fri, 30 Aug 2019 15:23:26-common.record_log-conftest.py-[line:9]-INFO-[日志信息]: ------------open browser------------
+Fri, 30 Aug 2019 15:23:56-common.record_log-conftest.py-[line:9]-INFO-[日志信息]: ------------open browser------------
+Fri, 30 Aug 2019 15:24:16-common.record_log-conftest.py-[line:9]-INFO-[日志信息]: ------------open browser------------
+Fri, 30 Aug 2019 15:25:11-common.record_log-conftest.py-[line:9]-INFO-[日志信息]: ------------open browser------------
+Fri, 30 Aug 2019 15:25:24-common.record_log-conftest.py-[line:9]-INFO-[日志信息]: ------------open browser------------
+Fri, 30 Aug 2019 15:26:24-common.record_log-conftest.py-[line:9]-INFO-[日志信息]: ------------open browser------------
+Fri, 30 Aug 2019 15:49:59-common.record_log-conftest.py-[line:9]-INFO-[日志信息]: ------------open browser------------
+Fri, 30 Aug 2019 15:50:55-common.record_log-conftest.py-[line:9]-INFO-[日志信息]: ------------open browser------------
+Fri, 30 Aug 2019 15:58:05-common.record_log-conftest.py-[line:9]-INFO-[日志信息]: ------------open browser------------
+Fri, 30 Aug 2019 16:00:33-common.record_log-conftest.py-[line:9]-INFO-[日志信息]: ------------open browser------------
+Fri, 30 Aug 2019 16:00:36-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://tzagriculture.test.al8l.com/login.html
+Fri, 30 Aug 2019 16:00:36-common.record_log-loginPage.py-[line:25]-INFO-[日志信息]: 开始登录
+Fri, 30 Aug 2019 16:00:36-common.record_log-loginPage.py-[line:34]-INFO-[日志信息]: 输入用户名:admin
+Fri, 30 Aug 2019 16:00:36-common.record_log-loginPage.py-[line:38]-INFO-[日志信息]: 输入密码:123456
+Fri, 30 Aug 2019 16:00:36-common.record_log-loginPage.py-[line:42]-INFO-[日志信息]: 点击登录按钮
+Fri, 30 Aug 2019 16:02:32-common.record_log-conftest.py-[line:9]-INFO-[日志信息]: ------------open browser------------
+Fri, 30 Aug 2019 16:02:35-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://tzagriculture.test.al8l.com/login.html
+Fri, 30 Aug 2019 16:02:35-common.record_log-loginPage.py-[line:25]-INFO-[日志信息]: 开始登录
+Fri, 30 Aug 2019 16:02:35-common.record_log-loginPage.py-[line:34]-INFO-[日志信息]: 输入用户名:admin
+Fri, 30 Aug 2019 16:02:35-common.record_log-loginPage.py-[line:38]-INFO-[日志信息]: 输入密码:123456
+Fri, 30 Aug 2019 16:02:35-common.record_log-loginPage.py-[line:42]-INFO-[日志信息]: 点击登录按钮
+Fri, 30 Aug 2019 16:03:16-common.record_log-conftest.py-[line:9]-INFO-[日志信息]: ------------open browser------------
+Fri, 30 Aug 2019 16:03:19-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://tzagriculture.test.al8l.com/login.html
+Fri, 30 Aug 2019 16:03:19-common.record_log-loginPage.py-[line:25]-INFO-[日志信息]: 开始登录
+Fri, 30 Aug 2019 16:03:19-common.record_log-loginPage.py-[line:34]-INFO-[日志信息]: 输入用户名:admin
+Fri, 30 Aug 2019 16:03:19-common.record_log-loginPage.py-[line:38]-INFO-[日志信息]: 输入密码:123456
+Fri, 30 Aug 2019 16:03:19-common.record_log-loginPage.py-[line:42]-INFO-[日志信息]: 点击登录按钮
+Fri, 30 Aug 2019 16:03:56-common.record_log-conftest.py-[line:9]-INFO-[日志信息]: ------------open browser------------
+Fri, 30 Aug 2019 16:03:59-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://tzagriculture.test.al8l.com/login.html
+Fri, 30 Aug 2019 16:03:59-common.record_log-loginPage.py-[line:25]-INFO-[日志信息]: 开始登录
+Fri, 30 Aug 2019 16:03:59-common.record_log-loginPage.py-[line:34]-INFO-[日志信息]: 输入用户名:admin
+Fri, 30 Aug 2019 16:03:59-common.record_log-loginPage.py-[line:38]-INFO-[日志信息]: 输入密码:123456
+Fri, 30 Aug 2019 16:03:59-common.record_log-loginPage.py-[line:42]-INFO-[日志信息]: 点击登录按钮
+Fri, 30 Aug 2019 16:04:28-common.record_log-conftest.py-[line:9]-INFO-[日志信息]: ------------open browser------------
+Fri, 30 Aug 2019 16:04:31-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://tzagriculture.test.al8l.com/login.html
+Fri, 30 Aug 2019 16:04:31-common.record_log-loginPage.py-[line:25]-INFO-[日志信息]: 开始登录
+Fri, 30 Aug 2019 16:04:31-common.record_log-loginPage.py-[line:34]-INFO-[日志信息]: 输入用户名:admin
+Fri, 30 Aug 2019 16:04:31-common.record_log-loginPage.py-[line:38]-INFO-[日志信息]: 输入密码:123456
+Fri, 30 Aug 2019 16:04:31-common.record_log-loginPage.py-[line:42]-INFO-[日志信息]: 点击登录按钮
+Fri, 30 Aug 2019 16:05:33-common.record_log-conftest.py-[line:9]-INFO-[日志信息]: ------------open browser------------
+Fri, 30 Aug 2019 16:05:36-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://tzagriculture.test.al8l.com/login.html
+Fri, 30 Aug 2019 16:05:36-common.record_log-loginPage.py-[line:25]-INFO-[日志信息]: 开始登录
+Fri, 30 Aug 2019 16:05:36-common.record_log-loginPage.py-[line:34]-INFO-[日志信息]: 输入用户名:admin
+Fri, 30 Aug 2019 16:05:37-common.record_log-loginPage.py-[line:38]-INFO-[日志信息]: 输入密码:123456
+Fri, 30 Aug 2019 16:05:37-common.record_log-loginPage.py-[line:42]-INFO-[日志信息]: 点击登录按钮
+Fri, 30 Aug 2019 16:07:43-common.record_log-conftest.py-[line:9]-INFO-[日志信息]: ------------open browser------------
+Fri, 30 Aug 2019 16:07:46-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://tzagriculture.test.al8l.com/login.html
+Fri, 30 Aug 2019 16:07:46-common.record_log-loginPage.py-[line:25]-INFO-[日志信息]: 开始登录
+Fri, 30 Aug 2019 16:07:46-common.record_log-loginPage.py-[line:34]-INFO-[日志信息]: 输入用户名:admin
+Fri, 30 Aug 2019 16:07:46-common.record_log-loginPage.py-[line:38]-INFO-[日志信息]: 输入密码:123456
+Fri, 30 Aug 2019 16:07:46-common.record_log-loginPage.py-[line:42]-INFO-[日志信息]: 点击登录按钮
+Fri, 30 Aug 2019 16:12:26-common.record_log-login.py-[line:9]-INFO-[日志信息]: ------------open browser------------
+Fri, 30 Aug 2019 16:12:30-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://tzagriculture.test.al8l.com/login.html
+Fri, 30 Aug 2019 16:12:30-common.record_log-loginPage.py-[line:25]-INFO-[日志信息]: 开始登录
+Fri, 30 Aug 2019 16:12:30-common.record_log-loginPage.py-[line:34]-INFO-[日志信息]: 输入用户名:admin
+Fri, 30 Aug 2019 16:12:30-common.record_log-loginPage.py-[line:38]-INFO-[日志信息]: 输入密码:123456
+Fri, 30 Aug 2019 16:12:30-common.record_log-loginPage.py-[line:42]-INFO-[日志信息]: 点击登录按钮
+Fri, 30 Aug 2019 16:28:31-common.record_log-login.py-[line:10]-INFO-[日志信息]: ------------open browser------------
+Fri, 30 Aug 2019 16:28:34-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://tzagriculture.test.al8l.com/login.html
+Fri, 30 Aug 2019 16:28:59-common.record_log-login.py-[line:10]-INFO-[日志信息]: ------------open browser------------
+Fri, 30 Aug 2019 16:29:01-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://tzagriculture.test.al8l.com/login.html
+Fri, 30 Aug 2019 16:29:01-common.record_log-loginPage.py-[line:20]-INFO-[日志信息]: 开始登录
+Fri, 30 Aug 2019 16:29:01-common.record_log-loginPage.py-[line:29]-INFO-[日志信息]: 输入用户名:admin
+Fri, 30 Aug 2019 16:29:01-common.record_log-loginPage.py-[line:33]-INFO-[日志信息]: 输入密码:123456
+Fri, 30 Aug 2019 16:29:02-common.record_log-loginPage.py-[line:37]-INFO-[日志信息]: 点击登录按钮
+Fri, 30 Aug 2019 16:30:07-common.record_log-login.py-[line:10]-INFO-[日志信息]: ------------open browser------------
+Fri, 30 Aug 2019 16:30:09-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://tzagriculture.test.al8l.com/login.html
+Fri, 30 Aug 2019 16:30:09-common.record_log-loginPage.py-[line:20]-INFO-[日志信息]: 开始登录
+Fri, 30 Aug 2019 16:30:09-common.record_log-loginPage.py-[line:29]-INFO-[日志信息]: 输入用户名:admin
+Fri, 30 Aug 2019 16:30:09-common.record_log-loginPage.py-[line:33]-INFO-[日志信息]: 输入密码:123456
+Fri, 30 Aug 2019 16:30:09-common.record_log-loginPage.py-[line:37]-INFO-[日志信息]: 点击登录按钮
