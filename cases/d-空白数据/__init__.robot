@@ -1,3 +1,4 @@
 *** Settings ***
 Library  pylib.login
-Suite Setup   open_driver    dri
+Suite Setup   open driver    dri
+Suite Teardown  close driver

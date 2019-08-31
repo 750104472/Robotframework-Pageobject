@@ -2,7 +2,6 @@
 from pages.base.base import Base
 from common.parse_config import ParseConfig
 from config.config import LOCATOR_PATH
-from selenium import webdriver
 
 
 class LoginPage(Base):
@@ -13,8 +12,6 @@ class LoginPage(Base):
     username_input = locator('LoginPage', 'username_input')  # 用户名输入框 实际：username_input = ('id', 'user_login')
     password_input = locator('LoginPage', 'password_input')  # 密码输入框
     login_button = locator('LoginPage', 'login_button')  # 登录按钮
-
-
 
     def login(self, phone: str, password: str):
         self.logger.info("开始登录")
@@ -39,8 +36,5 @@ class LoginPage(Base):
 
 
 
-
-
 if __name__ == '__main__':
-    lp = LoginPage(open_driver())
-    lp.open_url()
+    pass

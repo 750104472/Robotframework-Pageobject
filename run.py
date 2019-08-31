@@ -2,9 +2,8 @@ import pytest
 from common.create_dirs import CreateDir
 from config.config import REPORT_DIR
 import yagmail
-
-# from common.send_mail import SendEmail
-# SE = SendEmail()
+import datetime
+import os
 
 def sendemail(report):
     yag = yagmail.SMTP(user="15851398152@163.com",
@@ -17,14 +16,16 @@ def sendemail(report):
 
 
 def main():
-    CreateDir.create_dir(REPORT_DIR)
-    html_name = CreateDir.generate_filename('html')
+    log_dir = "/Users/linguowei/PycharmProjects/robotframe/report/log"
+    nowTime = datetime.datetime.now().strftime('%Y%m%d%H%M%S')
+    result_dir = log_dir + '-' + nowTime + '.html'
+    reportname = 'log' + '-' + nowTime + '.html'
+    print(result_dir, reportname)
+    # os.system("robot --pythonpath . -d ./report --log %s --suite 'WebOp' tc "%reportname)
+    # os.system("robot --pythonpath . -d ./report --log %s tc " % reportname)
+    os.system("robot --pythonpath . -d ./report --log %s cases " % reportname)
 
-    # addopts = -v --reruns 1 - -html = report / report.html --self-contained-html
-    # args = ['-v','--reruns', '1', 'cases/apicases','--html=report/' + html_name,'--self-contained-html']
-    # pytest.main(args)
-    # sendemail('%s/%s'%(REPORT_DIR,html_name))
-    print(html_name)
+    sendemail(result_dir)
 
 if __name__ == '__main__':
     main()

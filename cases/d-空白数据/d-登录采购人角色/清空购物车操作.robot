@@ -1,6 +1,7 @@
 *** Settings ***
-Library  pages.loginPage.LoginPage    ${dri}
+Library  pages.cartPage.CartPage    ${dri}
 Library  pylib.login
 *** Test Cases ***
-登录采购人角色 - tc00001
-
+清空购物车 - tc00001
+    open addproducturl
+    delete products

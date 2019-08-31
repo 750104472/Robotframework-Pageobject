@@ -1,0 +1,85 @@
+Sat, 31 Aug 2019 10:26:38-common.record_log-login.py-[line:10]-INFO-[日志信息]: ------------open browser------------
+Sat, 31 Aug 2019 10:26:46-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://tzagriculture.test.al8l.com/login.html
+Sat, 31 Aug 2019 10:26:46-common.record_log-loginPage.py-[line:17]-INFO-[日志信息]: 开始登录
+Sat, 31 Aug 2019 10:26:46-common.record_log-loginPage.py-[line:26]-INFO-[日志信息]: 输入用户名:tz_cgr
+Sat, 31 Aug 2019 10:26:46-common.record_log-loginPage.py-[line:30]-INFO-[日志信息]: 输入密码:12345678
+Sat, 31 Aug 2019 10:26:46-common.record_log-loginPage.py-[line:34]-INFO-[日志信息]: 点击登录按钮
+Sat, 31 Aug 2019 10:26:58-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://tzagriculture.test.al8l.com/cart.html
+Sat, 31 Aug 2019 10:27:55-common.record_log-login.py-[line:10]-INFO-[日志信息]: ------------open browser------------
+Sat, 31 Aug 2019 10:27:58-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://tzagriculture.test.al8l.com/login.html
+Sat, 31 Aug 2019 10:27:58-common.record_log-loginPage.py-[line:17]-INFO-[日志信息]: 开始登录
+Sat, 31 Aug 2019 10:27:58-common.record_log-loginPage.py-[line:26]-INFO-[日志信息]: 输入用户名:tz_cgr
+Sat, 31 Aug 2019 10:27:58-common.record_log-loginPage.py-[line:30]-INFO-[日志信息]: 输入密码:12345678
+Sat, 31 Aug 2019 10:27:58-common.record_log-loginPage.py-[line:34]-INFO-[日志信息]: 点击登录按钮
+Sat, 31 Aug 2019 10:28:09-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://tzagriculture.test.al8l.com/cart.html
+Sat, 31 Aug 2019 10:28:19-common.record_log-cartPage.py-[line:19]-INFO-[日志信息]: False
+Sat, 31 Aug 2019 10:29:48-common.record_log-login.py-[line:10]-INFO-[日志信息]: ------------open browser------------
+Sat, 31 Aug 2019 10:29:52-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://tzagriculture.test.al8l.com/login.html
+Sat, 31 Aug 2019 10:29:52-common.record_log-loginPage.py-[line:17]-INFO-[日志信息]: 开始登录
+Sat, 31 Aug 2019 10:29:52-common.record_log-loginPage.py-[line:26]-INFO-[日志信息]: 输入用户名:tz_cgr
+Sat, 31 Aug 2019 10:29:52-common.record_log-loginPage.py-[line:30]-INFO-[日志信息]: 输入密码:12345678
+Sat, 31 Aug 2019 10:29:52-common.record_log-loginPage.py-[line:34]-INFO-[日志信息]: 点击登录按钮
+Sat, 31 Aug 2019 10:30:03-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://tzagriculture.test.al8l.com/cart.html
+Sat, 31 Aug 2019 10:30:14-common.record_log-cartPage.py-[line:23]-INFO-[日志信息]: 购物车已清空！
+Sat, 31 Aug 2019 10:34:25-common.record_log-login.py-[line:10]-INFO-[日志信息]: ------------open browser------------
+Sat, 31 Aug 2019 10:34:28-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://tzagriculture.test.al8l.com/login.html
+Sat, 31 Aug 2019 10:34:28-common.record_log-loginPage.py-[line:17]-INFO-[日志信息]: 开始登录
+Sat, 31 Aug 2019 10:34:28-common.record_log-loginPage.py-[line:26]-INFO-[日志信息]: 输入用户名:tz_cgr
+Sat, 31 Aug 2019 10:34:28-common.record_log-loginPage.py-[line:30]-INFO-[日志信息]: 输入密码:12345678
+Sat, 31 Aug 2019 10:34:28-common.record_log-loginPage.py-[line:34]-INFO-[日志信息]: 点击登录按钮
+Sat, 31 Aug 2019 10:34:39-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://tzagriculture.test.al8l.com/cart.html
+Sat, 31 Aug 2019 10:34:50-common.record_log-cartPage.py-[line:24]-INFO-[日志信息]: 购物车已清空！
+Sat, 31 Aug 2019 10:37:47-common.record_log-login.py-[line:10]-INFO-[日志信息]: ------------open browser------------
+Sat, 31 Aug 2019 10:37:50-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://tzagriculture.test.al8l.com/login.html
+Sat, 31 Aug 2019 10:37:50-common.record_log-loginPage.py-[line:17]-INFO-[日志信息]: 开始登录
+Sat, 31 Aug 2019 10:37:50-common.record_log-loginPage.py-[line:26]-INFO-[日志信息]: 输入用户名:tz_cgr
+Sat, 31 Aug 2019 10:37:50-common.record_log-loginPage.py-[line:30]-INFO-[日志信息]: 输入密码:12345678
+Sat, 31 Aug 2019 10:37:50-common.record_log-loginPage.py-[line:34]-INFO-[日志信息]: 点击登录按钮
+Sat, 31 Aug 2019 10:38:01-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://tzagriculture.test.al8l.com/cart/change/32?num=20
+Sat, 31 Aug 2019 10:39:29-common.record_log-login.py-[line:10]-INFO-[日志信息]: ------------open browser------------
+Sat, 31 Aug 2019 10:39:32-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://tzagriculture.test.al8l.com/login.html
+Sat, 31 Aug 2019 10:39:32-common.record_log-loginPage.py-[line:17]-INFO-[日志信息]: 开始登录
+Sat, 31 Aug 2019 10:39:32-common.record_log-loginPage.py-[line:26]-INFO-[日志信息]: 输入用户名:tz_cgr
+Sat, 31 Aug 2019 10:39:32-common.record_log-loginPage.py-[line:30]-INFO-[日志信息]: 输入密码:12345678
+Sat, 31 Aug 2019 10:39:32-common.record_log-loginPage.py-[line:34]-INFO-[日志信息]: 点击登录按钮
+Sat, 31 Aug 2019 10:39:44-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://tzagriculture.test.al8l.com/cart/change/32?num=20
+Sat, 31 Aug 2019 10:39:44-common.record_log-cartPage.py-[line:30]-INFO-[日志信息]: 购物车有商品！
+Sat, 31 Aug 2019 10:46:10-common.record_log-login.py-[line:10]-INFO-[日志信息]: ------------open browser------------
+Sat, 31 Aug 2019 10:46:14-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://tzagriculture.test.al8l.com/login.html
+Sat, 31 Aug 2019 10:46:14-common.record_log-loginPage.py-[line:17]-INFO-[日志信息]: 开始登录
+Sat, 31 Aug 2019 10:46:14-common.record_log-loginPage.py-[line:26]-INFO-[日志信息]: 输入用户名:tz_cgr
+Sat, 31 Aug 2019 10:46:14-common.record_log-loginPage.py-[line:30]-INFO-[日志信息]: 输入密码:12345678
+Sat, 31 Aug 2019 10:46:14-common.record_log-loginPage.py-[line:34]-INFO-[日志信息]: 点击登录按钮
+Sat, 31 Aug 2019 10:46:25-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://tzagriculture.test.al8l.com/cart/change/32?num=20
+Sat, 31 Aug 2019 10:46:25-common.record_log-cartPage.py-[line:35]-INFO-[日志信息]: 'WebElement' object has no attribute 'accept_alert'
+Sat, 31 Aug 2019 10:47:23-common.record_log-login.py-[line:10]-INFO-[日志信息]: ------------open browser------------
+Sat, 31 Aug 2019 10:47:27-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://tzagriculture.test.al8l.com/login.html
+Sat, 31 Aug 2019 10:47:27-common.record_log-loginPage.py-[line:17]-INFO-[日志信息]: 开始登录
+Sat, 31 Aug 2019 10:47:27-common.record_log-loginPage.py-[line:26]-INFO-[日志信息]: 输入用户名:tz_cgr
+Sat, 31 Aug 2019 10:47:27-common.record_log-loginPage.py-[line:30]-INFO-[日志信息]: 输入密码:12345678
+Sat, 31 Aug 2019 10:47:27-common.record_log-loginPage.py-[line:34]-INFO-[日志信息]: 点击登录按钮
+Sat, 31 Aug 2019 10:47:38-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://tzagriculture.test.al8l.com/cart/change/32?num=20
+Sat, 31 Aug 2019 10:48:11-common.record_log-login.py-[line:10]-INFO-[日志信息]: ------------open browser------------
+Sat, 31 Aug 2019 10:48:14-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://tzagriculture.test.al8l.com/login.html
+Sat, 31 Aug 2019 10:48:14-common.record_log-loginPage.py-[line:17]-INFO-[日志信息]: 开始登录
+Sat, 31 Aug 2019 10:48:14-common.record_log-loginPage.py-[line:26]-INFO-[日志信息]: 输入用户名:tz_cgr
+Sat, 31 Aug 2019 10:48:14-common.record_log-loginPage.py-[line:30]-INFO-[日志信息]: 输入密码:12345678
+Sat, 31 Aug 2019 10:48:14-common.record_log-loginPage.py-[line:34]-INFO-[日志信息]: 点击登录按钮
+Sat, 31 Aug 2019 10:48:26-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://tzagriculture.test.al8l.com/cart/change/32?num=20
+Sat, 31 Aug 2019 10:48:26-common.record_log-cartPage.py-[line:34]-INFO-[日志信息]: 购物车已清空！
+Sat, 31 Aug 2019 10:50:12-common.record_log-login.py-[line:10]-INFO-[日志信息]: ------------open browser------------
+Sat, 31 Aug 2019 10:50:15-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://tzagriculture.test.al8l.com/login.html
+Sat, 31 Aug 2019 10:50:15-common.record_log-loginPage.py-[line:17]-INFO-[日志信息]: 开始登录
+Sat, 31 Aug 2019 10:50:15-common.record_log-loginPage.py-[line:26]-INFO-[日志信息]: 输入用户名:tz_cgr
+Sat, 31 Aug 2019 10:50:15-common.record_log-loginPage.py-[line:30]-INFO-[日志信息]: 输入密码:12345678
+Sat, 31 Aug 2019 10:50:15-common.record_log-loginPage.py-[line:34]-INFO-[日志信息]: 点击登录按钮
+Sat, 31 Aug 2019 10:50:26-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://tzagriculture.test.al8l.com/cart/change/32?num=20
+Sat, 31 Aug 2019 10:50:36-common.record_log-cartPage.py-[line:35]-INFO-[日志信息]: 购物车已清空！
+Sat, 31 Aug 2019 10:57:10-common.record_log-login.py-[line:10]-INFO-[日志信息]: ------------open browser------------
+Sat, 31 Aug 2019 10:57:13-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://tzagriculture.test.al8l.com/login.html
+Sat, 31 Aug 2019 10:57:13-common.record_log-loginPage.py-[line:17]-INFO-[日志信息]: 开始登录
+Sat, 31 Aug 2019 10:57:13-common.record_log-loginPage.py-[line:26]-INFO-[日志信息]: 输入用户名:tz_cgr
+Sat, 31 Aug 2019 10:57:13-common.record_log-loginPage.py-[line:30]-INFO-[日志信息]: 输入密码:12345678
+Sat, 31 Aug 2019 10:57:13-common.record_log-loginPage.py-[line:34]-INFO-[日志信息]: 点击登录按钮
+Sat, 31 Aug 2019 10:57:25-common.record_log-base.py-[line:48]-INFO-[日志信息]: 加载测试地址:http://tzagriculture.test.al8l.com/cart/change/32?num=20
+Sat, 31 Aug 2019 10:57:25-common.record_log-cartPage.py-[line:34]-INFO-[日志信息]: 购物车已清空！

@@ -1,45 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<robot generator="Robot 3.1.2 (Python 3.7.4 on darwin)" generated="20190830 16:30:06.946" rpa="false">
+<robot generator="Robot 3.1.2 (Python 3.7.4 on darwin)" generated="20190831 10:50:12.722" rpa="false">
 <suite id="s1" name="Cases" source="/Users/linguowei/PycharmProjects/robotframe/cases">
 <suite id="s1-s1" name="D-空白数据" source="/Users/linguowei/PycharmProjects/robotframe/cases/d-空白数据">
 <kw name="Open Driver" library="pylib.login" type="setup">
 <arguments>
 <arg>dri</arg>
 </arguments>
-<msg timestamp="20190830 16:30:07.056" level="INFO">------------open browser------------</msg>
-<msg timestamp="20190830 16:30:09.061" level="INFO">${dri} = &lt;selenium.webdriver.chrome.webdriver.WebDriver (session="7d520ce91233e0f4347c322885903e19")&gt;</msg>
-<status status="PASS" starttime="20190830 16:30:07.056" endtime="20190830 16:30:09.061"></status>
+<msg timestamp="20190831 10:50:12.826" level="INFO">------------open browser------------</msg>
+<msg timestamp="20190831 10:50:14.670" level="INFO">${dri} = &lt;selenium.webdriver.chrome.webdriver.WebDriver (session="295050d837490dd3517368272843a80d")&gt;</msg>
+<status status="PASS" starttime="20190831 10:50:12.826" endtime="20190831 10:50:14.670"></status>
 </kw>
 <suite id="s1-s1-s1" name="D-登录采购人角色" source="/Users/linguowei/PycharmProjects/robotframe/cases/d-空白数据/d-登录采购人角色">
-<suite id="s1-s1-s1-s1" name="登录" source="/Users/linguowei/PycharmProjects/robotframe/cases/d-空白数据/d-登录采购人角色/登录.robot">
-<test id="s1-s1-s1-s1-t1" name="登录采购人角色 - tc00001">
+<kw name="Run Keywords" library="BuiltIn" type="setup">
+<doc>Executes all the given keywords in a sequence.</doc>
+<arguments>
+<arg>open url</arg>
+<arg>AND</arg>
+<arg>login</arg>
+<arg>tz_cgr</arg>
+<arg>12345678</arg>
+</arguments>
 <kw name="Open Url" library="pages.loginPage.LoginPage">
-<msg timestamp="20190830 16:30:09.555" level="INFO">加载测试地址:http://tzagriculture.test.al8l.com/login.html</msg>
-<status status="PASS" starttime="20190830 16:30:09.076" endtime="20190830 16:30:09.555"></status>
+<msg timestamp="20190831 10:50:15.527" level="INFO">加载测试地址:http://tzagriculture.test.al8l.com/login.html</msg>
+<status status="PASS" starttime="20190831 10:50:14.681" endtime="20190831 10:50:15.527"></status>
 </kw>
 <kw name="Login" library="pages.loginPage.LoginPage">
 <arguments>
-<arg>admin</arg>
-<arg>123456</arg>
+<arg>tz_cgr</arg>
+<arg>12345678</arg>
 </arguments>
-<msg timestamp="20190830 16:30:09.556" level="INFO">开始登录</msg>
-<msg timestamp="20190830 16:30:09.556" level="INFO">输入用户名:admin</msg>
-<msg timestamp="20190830 16:30:09.662" level="INFO">输入密码:123456</msg>
-<msg timestamp="20190830 16:30:09.735" level="INFO">点击登录按钮</msg>
-<status status="PASS" starttime="20190830 16:30:09.556" endtime="20190830 16:30:19.210"></status>
+<msg timestamp="20190831 10:50:15.528" level="INFO">开始登录</msg>
+<msg timestamp="20190831 10:50:15.528" level="INFO">输入用户名:tz_cgr</msg>
+<msg timestamp="20190831 10:50:15.624" level="INFO">输入密码:12345678</msg>
+<msg timestamp="20190831 10:50:15.693" level="INFO">点击登录按钮</msg>
+<status status="PASS" starttime="20190831 10:50:15.527" endtime="20190831 10:50:26.302"></status>
 </kw>
-<kw name="Del Cookie" library="pylib.login">
-<status status="PASS" starttime="20190830 16:30:19.210" endtime="20190830 16:30:19.221"></status>
+<status status="PASS" starttime="20190831 10:50:14.680" endtime="20190831 10:50:26.302"></status>
 </kw>
-<status status="PASS" starttime="20190830 16:30:09.074" endtime="20190830 16:30:19.222" critical="yes"></status>
+<suite id="s1-s1-s1-s1" name="清空购物车操作" source="/Users/linguowei/PycharmProjects/robotframe/cases/d-空白数据/d-登录采购人角色/清空购物车操作.robot">
+<test id="s1-s1-s1-s1-t1" name="清空购物车 - tc00001">
+<kw name="Open Addproducturl" library="pages.cartPage.CartPage">
+<msg timestamp="20190831 10:50:26.840" level="INFO">加载测试地址:http://tzagriculture.test.al8l.com/cart/change/32?num=20</msg>
+<status status="PASS" starttime="20190831 10:50:26.316" endtime="20190831 10:50:26.840"></status>
+</kw>
+<kw name="Delete Products" library="pages.cartPage.CartPage">
+<msg timestamp="20190831 10:50:36.066" level="INFO">购物车已清空！</msg>
+<msg timestamp="20190831 10:50:36.066" level="INFO">&gt; /Users/linguowei/PycharmProjects/robotframe/pages/cartPage.py(35)delete_products()
+-&gt; self.logger.info("购物车已清空！")
+(Pdb)</msg>
+<status status="PASS" starttime="20190831 10:50:26.840" endtime="20190831 10:50:36.066"></status>
+</kw>
+<status status="PASS" starttime="20190831 10:50:26.315" endtime="20190831 10:50:36.066" critical="yes"></status>
 </test>
-<status status="PASS" starttime="20190830 16:30:09.065" endtime="20190830 16:30:19.222"></status>
+<status status="PASS" starttime="20190831 10:50:26.302" endtime="20190831 10:50:36.067"></status>
 </suite>
-<status status="PASS" starttime="20190830 16:30:09.062" endtime="20190830 16:30:19.224"></status>
+<kw name="Del Cookie" library="pylib.login" type="teardown">
+<status status="PASS" starttime="20190831 10:50:36.070" endtime="20190831 10:50:36.086"></status>
+</kw>
+<status status="PASS" starttime="20190831 10:50:14.670" endtime="20190831 10:50:36.086"></status>
 </suite>
-<status status="PASS" starttime="20190830 16:30:06.967" endtime="20190830 16:30:19.226"></status>
+<kw name="Close Driver" library="pylib.login" type="teardown">
+<status status="PASS" starttime="20190831 10:50:36.088" endtime="20190831 10:50:36.169"></status>
+</kw>
+<status status="PASS" starttime="20190831 10:50:12.742" endtime="20190831 10:50:36.169"></status>
 </suite>
-<status status="PASS" starttime="20190830 16:30:06.947" endtime="20190830 16:30:19.228"></status>
+<status status="PASS" starttime="20190831 10:50:12.724" endtime="20190831 10:50:36.171"></status>
 </suite>
 <statistics>
 <total>
@@ -52,7 +77,7 @@
 <stat pass="1" fail="0" id="s1" name="Cases">Cases</stat>
 <stat pass="1" fail="0" id="s1-s1" name="D-空白数据">Cases.D-空白数据</stat>
 <stat pass="1" fail="0" id="s1-s1-s1" name="D-登录采购人角色">Cases.D-空白数据.D-登录采购人角色</stat>
-<stat pass="1" fail="0" id="s1-s1-s1-s1" name="登录">Cases.D-空白数据.D-登录采购人角色.登录</stat>
+<stat pass="1" fail="0" id="s1-s1-s1-s1" name="清空购物车操作">Cases.D-空白数据.D-登录采购人角色.清空购物车操作</stat>
 </suite>
 </statistics>
 <errors>
